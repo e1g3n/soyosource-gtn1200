@@ -1,6 +1,8 @@
 # soyosource-gtn1200
 Simple Libray to Control SoyoSource GTN 1200 battery grid inverter
 
+Works with Arduino, ESP8266 and ESP32. Supports HardwareSerial.
+
 Emulates the Limiter, you have to set Auto-Limit to "Y"
 
 
